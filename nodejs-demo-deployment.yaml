@@ -1,6 +1,8 @@
 apiVersion: extensions/v1beta1
 kind: Deployment
 metadata:
+  annotations:
+    flux.weave.works/tag.server: glob:fast-*
   labels:
     name: nodejs-demo
   name: nodejs-demo
