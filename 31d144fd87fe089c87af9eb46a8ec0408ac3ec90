@@ -1,0 +1,1 @@
+{"jobID":"b8f07eb0-3aac-de24-0290-1ca5748c4dac","spec":{"type":"policy","cause":{"Message":"","User":"test@test"},"spec":{"default/nodejs-demo":{"add":{"tag.server":"glob:fast-*"},"remove":null}}},"result":null}
